@@ -10,7 +10,7 @@ Projeto de ciência de dados aplicada a futebol: rating de desempenho individual
 
 ## Dados
 
-FBref, Liga Portugal, época 2025/26 (`standard.csv`, `shooting.csv`, `misc.csv`). Filtro aplicado: mínimo de 5 jogos completos (`90s ≥ 5`, ≈450 minutos) para excluir amostras estatisticamente instáveis — decisão validada empiricamente durante o desenvolvimento (ver secção de metodologia).
+FBref, Liga Portugal, época 2025/26 (`standard.csv`, `shooting.csv`, `misc.csv`). Filtro aplicado: mínimo de 5 jogos completos (`90s ≥ 5`, ≈450 minutos) para excluir amostras estatisticamente instáveis.
 
 ## Metodologia — Rating
 
